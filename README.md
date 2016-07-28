@@ -7,3 +7,5 @@ Udemy course practice with python & postgresql
 	- computer randomly picks 6 numbers
 	- tells you if home many matches
 	- if any matches you win
+
++ Students 
